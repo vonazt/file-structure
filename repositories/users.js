@@ -1,0 +1,1 @@
+export const get = async () => await Mongo.find()
